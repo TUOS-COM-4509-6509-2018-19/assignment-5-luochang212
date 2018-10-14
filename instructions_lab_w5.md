@@ -20,9 +20,8 @@ Name your .ipynb file as NAME_REGCOD.ipynb, where NAME is your full name, and RE
 
 ### Assessment Criteria
 
-1. Being able to identify the properties of different types of basis functions.
-2. Being able to identify when a model is linear in the parameters and/or in the inputs.
-3. Being able to code in python non-linear regression using basis functions.
+1. Being able to code in python different functions associated with a linear model that work for different basis functions.
+2. Being able to code in python different validation methods to evaluate the generalisation ability of a machine learning model.
 
 
 The number of marks for each exercise is specified in the notebook.
