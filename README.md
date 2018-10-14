@@ -4,15 +4,15 @@
 
 ### Lecture
 
-The Jupyter Notebook slides for the lecture are [here](s5_generalisation.ipyn)
+The Jupyter Notebook slides for the lecture are [here](s5_generalisation.ipynb)
 
 Once you download the file, use the following instruction in your terminal
 
-`jupyter notebook s5_generalisation.ipyn`
+`jupyter notebook s5_generalisation.ipynb`
 
 If you want to see the notebook as a slide show use the following instruction in your terminal
 
-`jupyter nbconvert s5_generalisation.ipyn --to slides --post serve`
+`jupyter nbconvert s5_generalisation.ipynb --to slides --post serve`
 
 ### Lab session
 
